@@ -1,0 +1,16 @@
+.app-container {
+    position: relative;
+    width: 300px;
+    height: 500px;
+    margin: auto;
+}
+
+app-warning-alert {
+    float: left;
+    padding: 20px;
+}
+
+app-success-alert {
+    padding: 20px;
+    float: left;
+}
